@@ -1,7 +1,6 @@
-/////    TASK_2 TASK_2  TASK_2  TASK_2  TASK_2  TASK_2  TASK_2  TASK_2  TASK_2  /////
+/////    Computer Lab Reservation System /////
 
-/////    Name: Zuhaib Asad
-/////    Roll No. : 19100201
+/////    Contributor: Zuhaib Asad
 /////    No part of this code is derived from any other source code
 
 #include <iostream>
