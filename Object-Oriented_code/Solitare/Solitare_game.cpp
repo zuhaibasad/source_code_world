@@ -1,3 +1,7 @@
+
+// Contributor: Zuhaib Asad
+// Not any part of code is derived from any other source code.
+
 #include <iostream>
 #include <fstream>
 #include <iomanip>
