@@ -1,10 +1,7 @@
-////// TASK_1   TASK_1  TASK_1  TASK_1  TASK_1  TASK_1  TASK_1  TASK_1  TASK_1  TASK_1  TASK_1 //////
+////// Airline reservation System //////
 
-////// Name : Zuhaib Asad
-////// Roll No. : 191000201
-////// DISCLAIMER: No part of this code is derived from any other source code. And this code has copyrights reserved
-
-
+////// Contribitor : Zuhaib Asad
+////// DISCLAIMER: No part of this code is derived from any other source code.
 
 #include <iostream>
 #include <string>
