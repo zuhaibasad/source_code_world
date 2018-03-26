@@ -1,4 +1,4 @@
-#include "header.cpp"
+#include "class_header.cpp"
 #include <iostream>
 
 using namespace std;
